@@ -1,0 +1,11 @@
+# big decimal
+
+Super accurate large decimal arithmetic.
+
+Like the name implies bigdecimal is for BIG DECIMALS. The length of your number is only limited by the available memory of your computer. 
+to_d
+
+Try it out:
+
+
+Why would I use this?
