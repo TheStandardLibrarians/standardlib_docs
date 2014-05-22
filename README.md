@@ -17,6 +17,6 @@ Mentor
 
 Here we are re-documenting the standard library using a combination of our own words and examples mixed with existing definitions and examples that we find.
 
-We are creating an approachable way to check at the Ruby Standard Library that accompanies the ruby-docs 
+We are creating an approachable way to check out the Ruby Standard Library that accompanies the ruby-docs 
 
 
