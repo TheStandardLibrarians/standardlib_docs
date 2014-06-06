@@ -1,21 +1,24 @@
-# 
+# openssl
 
-## size  / Jen
+## size C / Jen
 
 $ irb
-2.1.2 :001 > require 'net/telnet'
+2.1.2 :001 > require 'openssl'
  => true 
 
 **definition:**
-No surprise here, the abbrev library abbreviates things, well strings actually. It calculates all the unique abbreviations for a word and returns it as an Array. All you have to do is require it.
+Provides SSL, TSL and general purpose cryptography for Ruby
 
 **Try it out:**
 
 
 **Why would I use this?**
 
+
 **Read More:**
 
+
 **Code More:**
+
 
 **Why would I use this?**

@@ -1,21 +1,24 @@
-# 
+# win32ole
 
-## size  / Jen
+## size C / Steph
 
 $ irb
-2.1.2 :001 > require 'net/telnet'
- => true 
+2.1.2 :001 > require 'win32ole'
+LoadError: cannot load such file -- win32ole 
 
 **definition:**
-No surprise here, the abbrev library abbreviates things, well strings actually. It calculates all the unique abbreviations for a word and returns it as an Array. All you have to do is require it.
+Provides an interface for OLE Automation in Ruby
 
 **Try it out:**
 
 
 **Why would I use this?**
 
+
 **Read More:**
 
+
 **Code More:**
+
 
 **Why would I use this?**

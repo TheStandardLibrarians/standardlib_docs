@@ -38,16 +38,37 @@ $ irb
 LoadError: cannot load such file -- mutex
 __________________________________________________________
 
+$ irb
+2.1.2 :001 > require 'racc'
+LoadError: cannot load such file -- racc
+________________________________________________________
+
+$ irb
+2.1.2 :001 > require 'readline'
+ => false
 __________________________________________________________
 
+$ irb
+2.1.2 :001 > require 'rexml'
+LoadError: cannot load such file -- rexml
 __________________________________________________________
 
+$ irb
+2.1.2 :001 > require 'rinda'
+LoadError: cannot load such file -- rinda
 __________________________________________________________
 
+ $ irb
+2.1.2 :001 > require 'rubygems'
+ => false 
+__________________________________________________________
 
+$ irb
+2.1.2 :001 > require 'test/unit'
+Warning: you should require 'minitest/autorun' instead.
+__________________________________________________________
 
-
-
-
-
- 
+$ irb
+2.1.2 :001 > require 'tk'
+LoadError: cannot load such file -- tk
+__________________________________________________________

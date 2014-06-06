@@ -1,21 +1,24 @@
-# 
+# rinda
 
-## size  / Jen
+## size C / Steph
 
 $ irb
-2.1.2 :001 > require 'net/telnet'
- => true 
+2.1.2 :001 > require 'rinda'
+LoadError: cannot load such file -- rinda 
 
 **definition:**
-No surprise here, the abbrev library abbreviates things, well strings actually. It calculates all the unique abbreviations for a word and returns it as an Array. All you have to do is require it.
+The Linda distributed computing paradigm in Ruby
 
 **Try it out:**
 
 
 **Why would I use this?**
 
+
 **Read More:**
 
+
 **Code More:**
+
 
 **Why would I use this?**

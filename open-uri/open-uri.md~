@@ -1,0 +1,24 @@
+# open-uri
+
+## size  / Jen
+
+$ irb
+2.1.2 :001 > require 'open-uri'
+ => true 
+
+**definition:**
+An easy-to-use wrapper for Net::HTTP, Net::HTTPS and Net::FTP
+
+**Try it out:**
+
+
+**Why would I use this?**
+
+
+**Read More:**
+
+
+**Code More:**
+
+
+**Why would I use this?**
