@@ -1,8 +1,15 @@
 # coverage
 
+size A / Josh
+
+$ irb
+2.1.2 :001 > require 'coverage'
+ => true 
+
+
 looks for dead code in your scripts
 
-Code that isn't being used would be "deadcode," coverage looks to 
+Code that is not being used would be "deadcode," coverage looks to 
 
 Try it out:
 
