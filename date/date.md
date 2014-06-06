@@ -1,10 +1,24 @@
-#date
+# date
 
-size C / Jen
+## size C / Jen
 
 $ irb
 2.1.2 :001 > require 'date'
  => true 
+ 
+**definition:**
+
+
+**Try it out:**
+
+
+**Why would I use this?**
+
+**Read More:**
+
+**Code More:**
+
+**Why would I use this?**
 
 http://ruby-doc.org/stdlib-2.1.2/libdoc/date/rdoc/index.html
 
