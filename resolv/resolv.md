@@ -1,10 +1,10 @@
-# readline
+# resolv
 
 size C / Steph
 
 $ irb
-2.1.2 :001 > require 'readline'
- => false
+2.1.2 :001 > require 'resolv'
+ => true
 
 **definition:**
 
@@ -18,5 +18,3 @@ Read More:
 Code More:
 
 Why would I use this?
-
-
