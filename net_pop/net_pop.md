@@ -4,7 +4,7 @@ size C / Jen
 
 $ irb
 2.1.2 :001 > require 'net/pop'
- => tru
+ => true
 
 **definition:**
 This library provides functionality for retrieving email via POP3, the Post Office Protocolversion 3.

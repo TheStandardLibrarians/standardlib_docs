@@ -12,6 +12,21 @@ Super accurate large decimal arithmetic.
 
 Like the name implies bigdecimal is for BIG DECIMALS. The length of your number is only limited by the available memory of your computer. 
 
+**Try it out:**
+
+
+**Why would I use this?**
+
+
+**Read More:**
+
+
+**Code More:**
+
+
+**Why would I use this?**
+
+
 to_d is to decimal
 
   http://makandracards.com/makandra/1178-bigdecimal-arithmetic-in-ruby

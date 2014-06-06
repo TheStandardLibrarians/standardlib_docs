@@ -1,6 +1,6 @@
 # net/http
 
-size C / Jen
+## size C / Jen
 
 $ irb
 2.1.2 :001 > require 'net/http'
@@ -16,5 +16,17 @@ Net::HTTP is designed to work closely with URI. URI::HTTP#host, URI::HTTP#port a
 
 If you are only performing a few GET requests you should try OpenURI.
 
+**Try it out:**
 
+
+**Why would I use this?**
+
+
+**Read More:**
+
+
+**Code More:**
+
+
+**Why would I use this?**
 

@@ -6,7 +6,22 @@ $ irb
 2.1.2 :001 > require 'cgi'
  => true 
 
-Used for forms
+**definition:**
+Support for the Common Gateway Interface protocol
+
+**Try it out:**
+
+
+**Why would I use this?**
+
+
+**Read More:**
+
+
+**Code More:**
+
+
+**Why would I use this?**
 
 http://ruby-doc.org/stdlib-2.1.0/libdoc/cgi/rdoc/CGI.html
 

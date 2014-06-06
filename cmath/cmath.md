@@ -9,12 +9,22 @@ $ irb
 **definition:**
 CMath is a library that provides trigonometric and transcendental functions for complex numbers.
 
-Usage¶ ↑
+**Try it out:**
 
-To start using this library, simply:
 
-require "cmath"
+**Why would I use this?**
+
+
+**Read More:**
+
+
+**Code More:**
 Square root of a negative number is a complex number.
 
 CMath.sqrt(-9)  #=> 0+3.0i
+
+**Why would I use this?**
+
+
+
 

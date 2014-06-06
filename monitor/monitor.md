@@ -1,26 +1,38 @@
 # monitor
 
-size B / Jen
+## size B / Jen
 
 $ irb
 2.1.2 :001 > require 'monitor'
  => false
 
-definition:
+**definition:**
 Provides an object or module to use safely by more than one thread
+
+**Try it out:**
+
+
+**Why would I use this?**
+
+
+**Read More:**
+
+
+**Code More:**
+
+
+**Why would I use this?**
+
 
 https://www.ruby-forum.com/topic/49879
 
-} and have the same API. This begs two questions:
-}
-} 1: What is the difference between Monitor and Mutex?
-}
-} 2: Which one of the two is the preferred solution? PickAxe 1-st
-} edition covered Mutex, PickAxe 2-nd edition covers Monitor in main
-} text and Mutex in passing in library reference.
-}
-} Any opinions are highly appreciated.
+Q.
+ 1: What is the difference between Monitor and Mutex?
+ 2: Which one of the two is the preferred solution? PickAxe 1-st
+ edition covered Mutex, PickAxe 2-nd edition covers Monitor in main
+ text and Mutex in passing in library reference.
 
+A.
 There are at least three (maybe only three -- it\'s been a long time
 since
 my operating systems course in college) equivalently powerful

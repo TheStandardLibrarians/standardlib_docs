@@ -5,8 +5,23 @@ $ irb
 2.1.2 :001 > require 'benchmark'
  => true
 
-The Benchmark module provides methods to measure and report the time used to execute Ruby code.(
+**definition:**
 Used to measure the time to run ruby code within a block.
+
+**Try it out:**
+
+
+**Why would I use this?**
+
+
+**Read More:**
+
+
+**Code More:**
+
+
+**Why would I use this?**
+
 
 The benchmark offers a report and bm method which both take a block and return different
 types of runtimes.

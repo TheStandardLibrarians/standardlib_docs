@@ -1,6 +1,6 @@
 # net/telnet
 
-## size  / Jen
+## size B / Jen
 
 $ irb
 2.1.2 :001 > require 'net/telnet'

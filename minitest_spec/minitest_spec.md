@@ -1,11 +1,28 @@
 # minitest/spec
 
-size C / Jen
+## size C / Jen
 
 $ irb
 2.1.2 :001 > require 'minitest/spec'
 Warning: you should require 'minitest/autorun' instead.
 Warning: or add 'gem "minitest"' before 'require "minitest/autorun"'
+
+**definition:**
+A test suite with TDD, BDD, mocking and benchmarking
+
+**Try it out:**
+
+
+**Why would I use this?**
+
+
+**Read More:**
+
+
+**Code More:**
+
+
+**Why would I use this?**
 
 MiniTest::Spec -- The faster, better, less-magical spec framework!
 
