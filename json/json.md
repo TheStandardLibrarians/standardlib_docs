@@ -2,9 +2,9 @@
 
 ## size  / Josh
 
-$ irb
-2.1.2 :001 > require 'jason'
-LoadError: cannot load such file -- jason 
+ $ irb
+2.1.2 :001 > require 'json'
+=> true
 
 **definition:**
 Interactive Ruby command-line tool for REPL (Read Eval Print Loop)
