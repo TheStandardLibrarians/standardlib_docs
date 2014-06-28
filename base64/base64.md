@@ -11,9 +11,11 @@ Encodes and decodes your files. You can think of it as a spy decoder ring. It's 
 put photos in your html and to jumble up any text you need jumbled up.
 
 **Try it out:**
+The cats have left a decoder ring for Mr. Chips. He is not sure how to solve it until he find the base64 clue on Pippin's tongue. Pippin ate the paper the ring was wrapped in.
 
 
-**Why would I use this?**
+
+**The Code**
 
 
 **Read More:**
