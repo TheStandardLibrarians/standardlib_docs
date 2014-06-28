@@ -24,7 +24,7 @@ jewelry: box in bear's cabin
 candy: in the monkey's house
 bicycle: in the horse's cave
 
-### {"dynamite":"in mr chips ship","watches":"in a bag under the cats tree","jewelery":"box in bears cabin","candy":"in the monkey\'s house","bicycle": "in the horse\'s cave"}  
+### {"dynamite":"in mr chip\'s ship","watches":"in a bag under the cat\'s tree","jewelery":"box in bear\'s cabin","candy":"in the monkey\'s house","bicycle": "in the horse\'s cave"}  
 
 **Narrative**
 The rabbit is running around stealing things.  He has accumulated a fair amount of items and he wants to keep track of where he is hiding them.
@@ -33,6 +33,6 @@ The rabbit is running around stealing things.  He has accumulated a fair amount 
 Load a JSON file using the JSON.load method.
 
 **Expected user input**
-### JSON.load('{"dynamite":"in mr chips ship","watches":"in a bag under the cats tree","jewelery":"box in bears cabin","candy":"in the monkey\'s house","bicycle": "in the horse\'s cave"}')  
+### JSON.load('{"dynamite":"in mr chip\'s ship","watches":"in a bag under the cat\'s tree","jewelery":"box in bear\'s cabin","candy":"in the monkey\'s house","bicycle": "in the horse\'s cave"}')  
 
 **Graphic (from Jen)**
