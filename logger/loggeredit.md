@@ -23,9 +23,9 @@ logger.fatal "Cats survive near death experience. Those bugs are huge!"
 
 **Read more:**
 
-[Using the Ruby Logger] by Adam Hawkins (http://hawkins.io/2013/08/using-the-ruby-logger/)
+[Using the Ruby Logger by Adam Hawkins] (http://hawkins.io/2013/08/using-the-ruby-logger/)
 
-[The Art of Logging] by Colin Eberhardt (http://www.codeproject.com/Articles/42354/The-Art-of-Logging#what)
+[The Art of Logging by Colin Eberhardt] (http://www.codeproject.com/Articles/42354/The-Art-of-Logging#what)
 
 **Code More:**
 
